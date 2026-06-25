@@ -1,0 +1,13 @@
+{
+  "name": "learning-analytics-dashboard",
+  "version": "1.0.0",
+  "description": "Widget-to-Chat Analytics Dashboard — Employee Learning Metrics",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
